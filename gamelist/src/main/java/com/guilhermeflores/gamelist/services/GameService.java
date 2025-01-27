@@ -17,6 +17,7 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 @Service
 public class GameService {
+
     @Autowired
     private GameRepository gameRepository;
 
